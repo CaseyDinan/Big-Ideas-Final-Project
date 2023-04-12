@@ -11,7 +11,7 @@ Datasets:
     -Notebook: fastFoodData.ipynb
     -Data Description: Lists all fast food establishments by zip code, name, address, etc.
     
-  Nate - Obesity Rates in ALleghany County (https://data.wprdc.org/dataset/allegheny-county-obesity-rates)
+  Nate - Allegheny County Farmers Markets Locations (https://data.wprdc.org/dataset/allegheny-county-farmers-markets-locations-2017)
   
   Casey - Allegheny County Supermarkets (https://data.wprdc.org/datastore/dump/112a3821-334d-4f3f-ab40-4de1220b1a0a)
     -Notebook: SupermarketsAnalysis.ipynb
