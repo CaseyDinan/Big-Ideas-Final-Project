@@ -17,4 +17,6 @@ Datasets:
   - Data Description: Lists all Farmer's Markets by name, coordinates, address, zip code, etc.
   
   Casey - Allegheny County Supermarkets (https://data.wprdc.org/datastore/dump/112a3821-334d-4f3f-ab40-4de1220b1a0a)
+    -Email: cdd43@pitt.edu
     -Notebook: SupermarketsAnalysis.ipynb
+    -Data Description: Lists all food facilities by municipality, type, seating, address, etc.
