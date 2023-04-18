@@ -2,6 +2,8 @@ This repo stores all of our files for our final project, including jupyter noteb
 
 Team Name: Top Hatters
 
+Final Presentation Notebook: FinalAnalysis.ipynb
+
 City Metric: Best Town In Pittsburgh Based on Food and Food Availibility
 
 Datasets:
@@ -16,7 +18,7 @@ Datasets:
   -Notebook: FarmersMarkets.ipynb
   - Data Description: Lists all Farmer's Markets by name, coordinates, address, zip code, etc.
   
-  Casey - Allegheny County Supermarkets (https://data.wprdc.org/datastore/dump/112a3821-334d-4f3f-ab40-4de1220b1a0a)
+  Casey - Allegheny County Supermarkets (https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores)
     -Email: cdd43@pitt.edu
     -Notebook: SupermarketsAnalysis.ipynb
     -Data Description: Lists all food facilities by municipality, type, seating, address, etc.
